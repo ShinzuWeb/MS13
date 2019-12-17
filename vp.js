@@ -3,7 +3,7 @@ const Discord = require("discord.js"),
         sayembed = new Discord.RichEmbed(),
         ms = require("ms"),
         con = console.log,
-        token = "MzU4MzE4ODc1Mjk4NzU4NjU2.XfjuPg.gOxgSIVpaxi1mNy10R-5NrNpU3w",
+        token = "MzU4MzE4ODc1Mjk4NzU4NjU2.Xfjxpg.Ok6-32v187ht4F4nfvxIzbRIA0k",
 
 
         DiscordPermissions = [
@@ -23,7 +23,7 @@ const Discord = require("discord.js"),
         commandIntervals = [];
 
 
-        bot.login("MzU4MzE4ODc1Mjk4NzU4NjU2.XfjuPg.gOxgSIVpaxi1mNy10R-5NrNpU3w");
+        bot.login("MzU4MzE4ODc1Mjk4NzU4NjU2.Xfjxpg.Ok6-32v187ht4F4nfvxIzbRIA0k");
 
 
         bot.on('ready',() => {
